@@ -13,4 +13,5 @@ export default class Vector {
   // class.
 
   // PLEASE DELETE THIS LINE AND ADD YOUR IMPLEMENTATION HERE
+
 }
